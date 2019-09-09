@@ -4,3 +4,6 @@ alteracao do texto
 uma linha
 duas linhas
 tres linhas
+1
+2
+3
