@@ -1,3 +1,6 @@
 texto
 teste1
 alteracao do texto
+uma linha
+duas linhas
+tres linhas
